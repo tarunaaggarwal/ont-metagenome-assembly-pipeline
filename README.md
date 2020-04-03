@@ -1,1 +1,0 @@
-# ont-metagenome-assembly-pipeline
